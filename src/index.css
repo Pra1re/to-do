@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cardparent{
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+}
+
+
+.review-image {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 0px;
+}
+
+  .confirm-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .confirm-btn:hover {
+    background-color: #45a049;
+  }
+  
+  @media (max-width: 1024px) {
+
+    .cardparent{
+      grid-template-columns: repeat(2,1fr);
+    }
+   
+  }
+  @media (max-width: 940px) {
+
+   
+  }
+
+  @media (max-width: 620px) {
+
+    .cardparent{
+      grid-template-columns: repeat(1,1fr);
+    }
+   
+   
+  }

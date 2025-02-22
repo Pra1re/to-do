@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "serviceName": "Career Counseling Sessions",
+    "category": "Online",
+    "description": "Gain insights into your strengths and interests and explore a variety of suitable career paths. Our expert counselors provide personalized guidance, helping you make informed decisions that align with your long-term goals and aspirations.",
+    "pricing": "$50",
+    "duration": "05-12-24, 5-6 PM",
+    "counselor": "Dr. Emma Stone",
+    "rating": 4.8,
+    "learnMore": "https://example.com/career-counseling",
+    "image": "https://img.freepik.com/premium-vector/psychology-therapy-man-sitting-talking-psychologist-psychotherapy-concept-vector-illustration_263366-570.jpg?w=360"
+  },
+  {
+    "id": 2,
+    "serviceName": "Resume Review",
+    "category": "Offline",
+    "description": "Receive a thorough review of your resume, focusing on formatting, keyword optimization, and impactful phrasing. This service is designed to improve your chances of getting noticed by recruiters and making a lasting impression.",
+    "pricing": "$30",
+    "duration": "06-12-24, 2-3 PM",
+    "counselor": "Mr. John Doe",
+    "rating": 4.7,
+    "learnMore": "https://example.com/resume-review",
+    "image": "https://th.bing.com/th/id/R.3a1852ff814862247c3c003289636009?rik=lyh3IYzJtFS%2bjw&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 3,
+    "serviceName": "Mock Interview Practice",
+    "category": "Group",
+    "description": "Engage in a supportive group setting to practice interview skills, receive constructive feedback, and boost your confidence. This service is ideal for preparing for real interviews with tips from experienced interviewers and peers.",
+    "pricing": "$40",
+    "duration": "07-12-24, 3-4 PM",
+    "counselor": "Ms. Lily Brown",
+    "rating": 4.6,
+    "learnMore": "https://example.com/mock-interview",
+    "image": "https://th.bing.com/th/id/OIP.og0CJEL7NfPJwXhKg8dCUwHaEr?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 4,
+    "serviceName": "LinkedIn Profile Optimization",
+    "category": "Online",
+    "description": "Enhance your LinkedIn profile to attract potential employers and stand out to recruiters. Our experts help you craft a profile that highlights your skills, achievements, and aspirations effectively.",
+    "pricing": "$25",
+    "duration": "08-12-24, 4-5 PM",
+    "counselor": "Mr. Alex Turner",
+    "rating": 4.9,
+    "learnMore": "https://example.com/linkedin-optimization",
+    "image": "https://viralspy.io/wp-content/uploads/2023/05/How-to-cancel-a-LinkedIn-connection-request.jpeg"
+  },
+  {
+    "id": 5,
+    "serviceName": "Career Transition Counseling",
+    "category": "Online",
+    "description": "Receive guidance on transitioning to a new industry or role, focusing on aligning your skills with your career goals. This service provides insights on managing change and finding opportunities in new fields.",
+    "pricing": "$60",
+    "duration": "09-12-24, 1-2 PM",
+    "counselor": "Dr. Sarah Green",
+    "rating": 4.8,
+    "learnMore": "https://example.com/career-transition",
+    "image": "https://th.bing.com/th/id/OIP.Lwh5BTNnXfdc5v-GhUKNyQHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 6,
+    "serviceName": "Cover Letter Writing",
+    "category": "Offline",
+    "description": "Create a customized cover letter that effectively highlights your strengths and aligns with your desired job role. This service ensures that your cover letter makes a positive impact on recruiters.",
+    "pricing": "$20",
+    "duration": "10-12-24, 2-3 PM",
+    "counselor": "Ms. Jennifer Lee",
+    "rating": 4.5,
+    "learnMore": "https://example.com/cover-letter",
+    "image": "https://th.bing.com/th/id/OIP.f9xN15PMoqCqKe3Pz_8SkQHaHO?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 7,
+    "serviceName": "Networking Strategy Workshop",
+    "category": "Group",
+    "description": "Develop a professional network to support your career ambitions. Learn effective strategies for making meaningful connections, maintaining relationships, and expanding your professional circle.",
+    "pricing": "$35",
+    "duration": "11-12-24, 10-11 AM",
+    "counselor": "Mr. Sam Reed",
+    "rating": 4.6,
+    "learnMore": "https://example.com/networking-strategy",
+    "image": "https://th.bing.com/th/id/OIP.pmG30ALOfgI9s577YJE-6gHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 8,
+    "serviceName": "Personal Branding for Job Seekers",
+    "category": "Online",
+    "description": "Craft a unique personal brand that makes a lasting impression in job applications and interviews. This workshop helps you define your strengths, values, and goals to present a cohesive, impactful profile.",
+    "pricing": "$45",
+    "duration": "12-12-24, 3-4 PM",
+    "counselor": "Dr. Michelle Fox",
+    "rating": 4.9,
+    "learnMore": "https://example.com/personal-branding",
+    "image": "https://static.vecteezy.com/system/resources/previews/016/766/842/original/job-seekers-logo-design-template-illustration-there-are-job-seekers-and-finder-this-is-good-for-business-free-vector.jpg"
+  },
+  {
+    "id": 9,
+    "serviceName": "Career Goals & Planning Session",
+    "category": "Online",
+    "description": "Define clear career objectives and create a strategic plan to achieve them. This session provides you with actionable steps and expert insights to help you stay on track with your career goals.",
+    "pricing": "$50",
+    "duration": "13-12-24, 6-7 PM",
+    "counselor": "Ms. Rachel Adams",
+    "rating": 4.7,
+    "learnMore": "https://example.com/career-goals",
+    "image": "https://th.bing.com/th/id/OIP.8SKHyk_ABXHhnBUCaH6dhAHaGl?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 10,
+    "serviceName": "Salary Negotiation Workshop",
+    "category": "Group",
+    "description": "Learn essential negotiation techniques to secure the best possible salary based on your skills, experience, and market demand. This workshop provides strategies for confidently discussing compensation.",
+    "pricing": "$40",
+    "duration": "14-12-24, 4-5 PM",
+    "counselor": "Mr. David Wilson",
+    "rating": 4.8,
+    "learnMore": "https://example.com/salary-negotiation",
+    "image": "https://th.bing.com/th/id/OIP.iEWnaQgMFUEpb4MllwSR_AHaGh?rs=1&pid=ImgDetMain"
+  }
+]

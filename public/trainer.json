@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Sarah Thompson",
+        "title": "Senior Career Coach",
+        "specialization": "Career Transition, Personal Branding",
+        "bio": "Dr. Sarah Thompson has over 15 years of experience in career counseling, helping professionals transition smoothly to new career paths and develop strong personal brands.",
+        "image": "https://i.pinimg.com/originals/d8/09/4c/d8094cb800a9c258830c54d49e67ca58.jpg",
+        "experience": "15+ years",
+        "contact": {
+            "email": "sarah.thompson@example.com",
+            "phone": "+1234567890",
+            "linkedin": "https://linkedin.com/in/sarah-thompson"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Johnathan Lee",
+        "title": "Resume Expert & Interview Coach",
+        "specialization": "Resume Building, Interview Preparation",
+        "bio": "Johnathan is dedicated to helping job seekers create impactful resumes and ace their interviews. With a background in HR, he brings valuable insights into what employers are looking for.",
+        "image": "https://hurstvilleprivate.com.au/imager/uploads/hurstvilleprivate.com.au/1478/Dr-David-Malouf-06_aa0cc1a7fe3a76c2f064bc5b0c8153d5.jpg",
+        "experience": "10 years",
+        "contact": {
+            "email": "johnathan.lee@example.com",
+            "phone": "+1234567891",
+            "linkedin": "https://linkedin.com/in/johnathan-lee"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Emily Chen",
+        "title": "LinkedIn Profile Optimization Specialist",
+        "specialization": "LinkedIn Optimization, Networking Strategies",
+        "bio": "Emily is passionate about helping professionals make the most out of LinkedIn. Her strategies help clients stand out and build valuable connections in their industry.",
+        "image": "https://media.bizj.us/view/img/12361270/taylor-v2*636xx624-624-6-0.jpg",
+        "experience": "7 years",
+        "contact": {
+            "email": "emily.chen@example.com",
+            "phone": "+1234567892",
+            "linkedin": "https://linkedin.com/in/emily-chen"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Michael Carter",
+        "title": "Career Development Mentor",
+        "specialization": "Career Planning, Skill Development",
+        "bio": "Michael has been guiding young professionals and students to make informed career decisions. His expertise in skill development helps clients achieve long-term career goals.",
+        "image": "https://imagevars.gulfnews.com/2020/06/28/-_172fafd1f79_original-ratio.jpg",
+        "experience": "8 years",
+        "contact": {
+            "email": "michael.carter@example.com",
+            "phone": "+1234567893",
+            "linkedin": "https://linkedin.com/in/michael-carter"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Sophia Martinez",
+        "title": "Salary Negotiation Coach",
+        "specialization": "Negotiation Skills, Career Advancement",
+        "bio": "Sophia specializes in helping professionals negotiate salaries and benefits, ensuring they achieve the compensation they deserve.",
+        "image": "https://th.bing.com/th/id/OIP.QCXWvWpJsVFRHjSu9p4rCAHaHa?rs=1&pid=ImgDetMain",
+        "experience": "12 years",
+        "contact": {
+            "email": "sophia.martinez@example.com",
+            "phone": "+1234567894",
+            "linkedin": "https://linkedin.com/in/sophia-martinez"
+        }
+    },
+    {
+        "id": 6,
+        "name": "David Patel",
+        "title": "Work-Life Balance Coach",
+        "specialization": "Time Management, Work-Life Balance",
+        "bio": "With a focus on balancing personal and professional life, David provides strategies for managing time and reducing stress for greater job satisfaction.",
+        "image": "https://th.bing.com/th/id/OIP.FDo4Z_-tI-8ViJEQyc7M2wHaLI?rs=1&pid=ImgDetMain",
+        "experience": "6 years",
+        "contact": {
+            "email": "david.patel@example.com",
+            "phone": "+1234567895",
+            "linkedin": "https://linkedin.com/in/david-patel"
+        }
+    }
+]

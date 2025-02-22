@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Alice Johnson",
+      "image": "https://th.bing.com/th/id/OIP.MW5KCvdZjebeRLc2tEBoaAHaHa?rs=1&pid=ImgDetMain",
+      "review": "The career counseling session was incredibly helpful in guiding me towards a career path that fits my strengths."
+    },
+    {
+      "name": "Michael Smith",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjY0NDgzMjI0N15BMl5BanBnXkFtZTgwNzI5NzMwNjM@._V1_SY1000_CR0,0,759,1000_AL_.jpg",
+      "review": "Resume review was thorough and gave me actionable tips to improve my application. Highly recommended!"
+    },
+    {
+      "name": "Sophia Lee",
+      "image": "https://news.griffith.edu.au/wp-content/uploads/2021/09/Dr-Alexis-Kallio-resize.jpg",
+      "review": "The mock interview practice boosted my confidence and helped me improve my responses."
+    },
+    {
+      "name": "David Brown",
+      "image": "https://www.rimanellis.com/wp-content/uploads/2018/06/Jack-Victor-Suit.jpg",
+      "review": "Great advice on LinkedIn profile optimization. My profile is now much more professional."
+    },
+    {
+      "name": "Emma Wilson",
+      "image": "https://mwlawyers.org/resource/resmgr/spring_2021/hughey,_rachel_high-resoluti.jpg",
+      "review": "Career transition counseling was eye-opening and gave me clear steps to transition into a new role."
+    },
+    {
+      "name": "Chris Martin",
+      "image": "https://i.pinimg.com/736x/38/77/29/38772926f2e4ef635549d9a182bafe91--navy-dress-pants-dress-shirts.jpg",
+      "review": "Cover letter writing session was fantastic. My cover letter now highlights my strengths effectively."
+    },
+    {
+      "name": "Olivia Davis",
+      "image": "https://www.prlog.org/12915813-jessica-frankovich-imua-chairperson.jpg",
+      "review": "Networking strategy workshop provided practical insights into professional networking."
+    },
+    {
+      "name": "Liam Scott",
+      "image": "https://i.pinimg.com/originals/a9/da/3d/a9da3df52d836a48a091afb99134cfd6.jpg",
+      "review": "Personal branding session helped me stand out in job applications. Worth every penny!"
+    },
+    {
+      "name": "Ava Rodriguez",
+      "image": "https://media.licdn.com/dms/image/D5603AQG5ExdTCXT9FQ/profile-displayphoto-shrink_800_800/0/1672615448952?e=2147483647&v=beta&t=_En2e5KsjGNngRkPbqaneFngKnfVERU_mAM5dvAO1u4",
+      "review": "The career goals session helped me clarify my ambitions and set actionable steps."
+    },
+    {
+      "name": "Ethan Lee",
+      "image": "https://fixitease.com/wp-content/uploads/2023/09/Ethan_Lee.jpg",
+      "review": "Salary negotiation workshop taught me valuable tactics. I feel much more prepared now."
+    }
+  ]
+  
