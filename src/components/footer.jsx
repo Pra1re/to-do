@@ -29,7 +29,7 @@ const Footer = () => {
   <aside className="grid-flow-col items-center">
     
     <p className=''>
-      <span className='font-bold text-xl'>Sporty</span>
+      <span className='font-bold text-xl'>Statics</span>
       <br />
       Providing reliable tech since 1992
     </p>
